@@ -50,4 +50,4 @@
   
 ## Output
 
-
+<img width="302" height="439" alt="Image" src="https://github.com/user-attachments/assets/e2524abc-1561-49ed-b6d4-62759daf7b18" />
