@@ -1,5 +1,17 @@
 # REAL-TIME-CHAT-APPLICATION
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* :  VALABOJU SOHANA 
+
+*INTERN ID* : CT06DG1136
+
+*DOMAIN* : FRONT-END WEB DEVELOPMENT
+
+*DURATION* : 6 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
 ## Introduction
 - A simple real-time chat application built with Node.js, Express, and Socket.IO.
 - Enables multiple users to send and receive messages instantly in a shared chat room.
@@ -35,3 +47,7 @@
 - Store chat history in a database for persistence.
 - Add notifications for user join/leave events.
 - Improve UI with better styling and mobile responsiveness.
+  
+## Output
+
+
